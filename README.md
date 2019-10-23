@@ -1,2 +1,2 @@
 # TwistedGS
- The only game show Pirate TV! Catch the podcast on Pirate Radio!
+ The only game show on Pirate TV! Catch the podcast on Pirate Radio!
